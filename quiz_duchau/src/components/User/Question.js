@@ -1,6 +1,6 @@
 import _ from 'lodash';
 import { useState } from 'react';
-import Lightbox from "react-awesome-lightbox";
+import Lightbox from "yet-another-react-lightbox";
 import { useTranslation } from 'react-i18next';
 import { IoIosClose, IoIosCheckmark } from "react-icons/io";
 

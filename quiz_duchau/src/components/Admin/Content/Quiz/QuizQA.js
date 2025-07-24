@@ -6,7 +6,7 @@ import { HiMinus } from "react-icons/hi";
 import { AiFillPicture } from "react-icons/ai";
 import { v4 as uuidv4 } from "uuid";
 import _ from "lodash";
-import Lightbox from "react-awesome-lightbox";
+import Lightbox from "yet-another-react-lightbox";
 import { toast } from "react-toastify";
 import {
   getAllQuizForAdmin,
