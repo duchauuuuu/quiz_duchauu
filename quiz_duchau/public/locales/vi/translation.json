@@ -1,0 +1,22 @@
+{
+  "homepage": {
+    "title1": "Khám phá khách hàng của bạn với những mẫu đơn đáng để điền",
+    "title2": "Thu thập tất cả dữ liệu bạn cần để hiểu khách hàng với những mẫu đơn được thiết kế khác biệt một cách đáng ngạc nhiên.",
+    "title3": {
+      "login": "Bắt đầu - miễn phí"
+    }
+  },
+  "quiz": {
+    "question": "Câu hỏi",
+    "show-answer": "Hiển thị câu trả lời",
+    "close": "Đóng",
+    "total-question": "Tổng số câu hỏi",
+    "total-correct": "Tổng số đúng",
+    "result": "Kết quả"
+  },
+  "header": {
+    "home": "Trang chủ",
+    "user": "Người dùng",
+    "quiz": "Bài kiểm tra"
+  }
+}

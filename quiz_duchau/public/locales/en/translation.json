@@ -1,0 +1,22 @@
+{
+  "homepage": {
+    "title1": "Get to know your customers with forms worth filling out",
+    "title2": "Collect all the data you need to understand customers with forms designed to be refreshingly different.",
+    "title3": {
+      "login": "Get started—it's free"
+    }
+  },
+  "quiz":{
+      "question":"Question",
+      "show-answer":"Show answer",
+      "close":"Close",
+      "total-question":"Total questions",
+      "total-correct":"Total correct",
+      "result":"Result"
+  },
+  "header":{
+    "home": "Home",
+    "user": "User",
+    "quiz":"Quiz"
+  }
+}
